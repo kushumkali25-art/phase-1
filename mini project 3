@@ -1,0 +1,66 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>event announcement</title>
+</head>
+<body>
+    <h1>
+        tech club meeting 2026
+    </h1>
+    <p>
+        join for an exciting tech club meeting where we will discuss new ideas
+        learn together,and have fun!
+    </p>
+    <strong>
+        free entry! All students are welcome.
+    </strong>
+    <hr>
+    <h2>
+        Date & Time 
+    </h2>
+    <p>
+        Date:10 March 2026
+        <br>
+        Time:11:00 AM-2:00 PM
+    </p>
+    <hr>
+    <h2>
+        Location 
+    </h2>
+    
+    <p>
+        seminar hall, BCA College
+        <br>
+        near main library
+        <hr>
+        <h2>
+            Agenda
+        </h2>
+        </p>
+        <ul>
+            <li>
+                welcome speech
+            </li>
+            <li>
+                Introdaction to web Development
+            </li>
+            <li>
+                mini project discussion 
+            </li>
+            <li>
+                Q&A session
+            </li>
+        </ul>
+        <hr>
+        <p>
+<strong>
+    required!
+</strong>
+<br>
+<a href="#">Register Here</a>
+        </p>
+
+</body>
+</html>
