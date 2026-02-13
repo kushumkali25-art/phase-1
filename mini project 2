@@ -1,0 +1,57 @@
+\\<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Blog Post</title>
+</head>
+<body>
+
+    <h1>My First Blog Post</h1>
+
+    <p>
+        Written by <strong>Kushumkali Maurya</strong> |
+        <em>3 February 2026</em>
+        <hr>
+    </p>
+    <article>
+
+        <h2>Introduction</h2>
+        <p>
+            <i>
+            This is my first blog post. I am learning HTML and web development.
+            Writing blogs helps me improve my skills and share my knowledge.
+            </i>
+            <hr>
+        </p>
+
+        <h2>Why I Like Web Development</h2>
+        <p>
+            Web development is interesting because we can create websites using
+            simple languages like HTML, CSS, and JavaScript.
+            <hr>
+        </p>
+
+    
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8osU0chYD3jcwnNEakgAjDyXS_NIY8AvbQ0eFX9iG&s" height="200" width="200">
+
+        <h3>Learning Step by Step</h3>
+        <p>
+            I started learning HTML first. After that, I will learn CSS and JavaScript.
+            Practice is the key to becoming a good developer.
+
+<hr>
+        </p>
+h
+        <blockquote>
+            “Learning never exhausts the mind.”
+        </blockquote>
+
+        <p>
+            Read more about HTML here:
+            <a href="#">Click here</a>
+        </p>
+
+        <hr>
+    </article>
+
+</body>
+</html>
