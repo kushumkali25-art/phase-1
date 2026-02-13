@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Submit Feedback</title>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">profile</a></li>
+            <li><a href="#">course</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Feedback</a></li>
+        </ul>
+    </nav>
+
+    <!-- Page Title -->
+    <h1>Submit Feedback</h1>
+
+    <!-- Feedback Form -->
+    <form>
+
+        <!-- Name -->
+        <label for="name">Full Name:</label><br>
+        <input type="text" id="name" name="name"><br><br>
+
+        <!-- Email -->
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+
+        <!-- Gender (Radio Buttons) -->
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label><br>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label><br>
+
+        <input type="radio" id="other" name="gender" value="other">
+        <label for="other">Other</label><br><br>
+
+        <!-- Feedback Type (Dropdown) -->
+        <label for="feedbackType">Feedback Type:</label><br>
+        <select id="feedbackType" name="feedbackType">
+            <option value="suggestion">Suggestion</option>
+            <option value="complaint">Complaint</option>
+            <option value="appreciation">Appreciation</option>
+        </select><br><br>
+
+        <!-- Rating (Checkbox) -->
+        <label>Rate Our Website:</label><br>
+        <input type="checkbox" id="excellent" name="rating" value="excellent">
+        <label for="excellent">Excellent</label><br>
+
+        <input type="checkbox" id="good" name="rating" value="good">
+        <label for="good">Good</label><br>
+
+        <input type="checkbox" id="average" name="rating" value="average">
+        <label for="average">Average</label><br><br>
+
+        <!-- Message -->
+        <label for="message">Your Feedback:</label><br>
+        <textarea id="message" name="message" rows="5" cols="30"></textarea><br><br>
+
+        <!-- Submit Button -->
+        <button type="submit">Feedback</button>
+
+    </form>
+</body>
+</html>
+
+
+
+            
