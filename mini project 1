@@ -1,0 +1,52 @@
+<!DOCTYPE  html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chocolate</title>
+</head>
+<body>
+    <h1>\
+        <i>
+        My frist mini project
+        </i>
+    </h1>\
+<ul>
+<h1>Chocolate</h1>
+<hr>
+</ul>
+<img src="https://elavegan.com/wp-content/uploads/2023/01/homemade-chocolate-bars-480x270.jpg"> 
+
+    <!-- Recipe Name -->
+    <h1>chocolate</h1>
+    <hr>
+    <p>
+        A <strong>chocolate</strong> is a quick and healthy dish.
+        It is easy to make and very <em>tasty</em>.
+    </p>
+
+    <h2>Ingredients</h2>
+    <ul>
+        <li>milk</li>
+        <li>sugar</li>
+        <li>dark chocolate</li>
+        <li>white chocolate</li>
+    </ul>
+    <hr>
+    <h2>Instructions</h2>
+    <ol>
+        <li>Take cocoa powder, cocoa butter, and sugar.</li>
+        <li>Heat cocoa butter on low flame until it melts.</li>
+        <li>Add cocoa powder to the melted butter.</li>
+        <li>Add sugar and mix well.</li>
+        <li>Add vanilla essence for good flavor.</li>
+        <li>Mix everything smoothly.</li>
+        <li>After it becomes hard, your chocolate is ready! 🍫</li>
+        <li>Your <strong>chocolate</strong> is ready to eat.</li>
+    </ol>
+    <hr>
+
+</body>
+</html>
+
+</html>
